@@ -1,0 +1,22 @@
+{
+    "name": "blue-wave-design",
+    "version": "1.0.0",
+    "description": "Affordable and professional web design subscription service",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+    "author": "Ramandhan, Austin",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "stripe": "^8.0.0",
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    }
+  }
+  
